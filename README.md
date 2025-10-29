@@ -41,3 +41,5 @@ I also have long-term interests in art (I've trained in painting for 14 years) a
 - 📧 Email: [Email](mailto:ym3139@cumc.columbia.edu) 
 - 💻 GitHub: [https://github.com/YutongMao](https://github.com/YutongMao)
 
+👉 View my full resume [here](https://YutongMao.github.io/resume).
+

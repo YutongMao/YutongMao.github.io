@@ -38,7 +38,6 @@ Outside coursework and research, I’ve done applied engineering-style work invo
 I also have long-term interests in art (I've trained in painting for 14 years) and I love traveling.
 
 ## Contact & Links
-- 📧 Email: yfm5100@psu.edu  
+- 📧 Email: [Email](mailto:ym3139@cumc.columbia.edu) 
 - 💻 GitHub: [https://github.com/YutongMao](https://github.com/YutongMao)
-- 🌐 This site: YutongMao.github.io
 

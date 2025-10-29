@@ -15,22 +15,21 @@ I’m especially interested in:
 I have worked as a research assistant in multiple projects related to mathematical modeling and computation:
 
 - **Talent vs Luck Theory Research (2024 – present)**  
-  Building mathematical models and agent-based simulations (NetLogo) to understand how talent and chance interact in “success.” My work includes literature review, refining theoretical frameworks, and simulating different environments to test outcomes. :contentReference[oaicite:1]{index=1}
+  Building mathematical models and agent-based simulations (NetLogo) to understand how talent and chance interact in “success.” My work includes literature review, refining theoretical frameworks, and simulating different environments to test outcomes.
 
 - **Optimal Anti-amyloid-beta Therapy for Alzheimer’s Disease (2022 – present)**  
-  Developing stochastic differential equation models to describe Alzheimer’s disease progression and exploring how to optimize anti-amyloid-beta therapy strategies. This includes work on modeling disease dynamics, simulating possible interventions, and investigating optimization methods for treatment. :contentReference[oaicite:2]{index=2}
+  Developing stochastic differential equation models to describe Alzheimer’s disease progression and exploring how to optimize anti-amyloid-beta therapy strategies. This includes work on modeling disease dynamics, simulating possible interventions, and investigating optimization methods for treatment.
 
 - **Mathematical Neuroscience Lab (Jan 2024 – May 2024)**  
-  Converted Java code to Python for data analysis, built clustering logic to transform noisy data into meaningful structure, and used NumPy / Matplotlib / scikit-learn to visualize patterns. :contentReference[oaicite:3]{index=3}
+  Converted Java code to Python for data analysis, built clustering logic to transform noisy data into meaningful structure, and used NumPy / Matplotlib / scikit-learn to visualize patterns. 
 
 - **Machine Learning Research, DAMI Lab (Sept 2022 – May 2023)**  
-  Worked (remote) with the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences. Explored image denoising using Random Forest + Markov Chain style methods. I focused on integrating local/noise correction from Random Forest with global smoothing through Markov Chain sampling for better image reconstruction. :contentReference[oaicite:4]{index=4}
-
+  Worked (remote) with the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences. Explored image denoising using Random Forest + Markov Chain style methods. I focused on integrating local/noise correction from Random Forest with global smoothing through Markov Chain sampling for better image reconstruction.
 ## Technical Skills
 - **Programming:** Python (NumPy, Matplotlib, scikit-learn), MATLAB, NetLogo  
 - **Math / Stats:** Linear algebra, probability, mathematical statistics, optimization, stochastic differential equations  
 - **Tools:** Anaconda, Overleaf, Git/GitHub, R Markdown / Quarto-style workflows  
-- **Languages:** English (Fluent), Mandarin Chinese (Native) :contentReference[oaicite:5]{index=5}
+- **Languages:** English (Fluent), Mandarin Chinese (Native)
 
 ## Outside of Academics
 Outside coursework and research, I’ve done applied engineering-style work involving cleanroom / BMS / EMS systems, environmental control, and validation-style documentation for pharmaceutical manufacturing spaces. I like work that mixes strict compliance + math + physical systems.

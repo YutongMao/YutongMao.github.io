@@ -69,15 +69,14 @@ May 2022 – Aug 2022, The Pennsylvania State University, USA
 Regional External Relations Representative (Central China Region)  
 June 2021 – Dec 2021, Beijing, China  
 - Represented the Central China region in a national Model UN conference in Beijing.  
-- Coordinated and supported >100 delegates in successfully participating in the conference. :contentReference[oaicite:13]{index=13}
-
+- Coordinated and supported >100 delegates in successfully participating in the conference.
 ---
 
 ## Technical Skills
 - **Programming:** Python, MATLAB, NetLogo  
 - **Data / Tools:** Anaconda, GitHub, Overleaf  
 - **Quantitative Background:** Probability, stochastic processes, statistical modeling, optimization, linear algebra  
-- **Languages:** English (Fluent); Mandarin Chinese (Native) :contentReference[oaicite:14]{index=14}
+- **Languages:** English (Fluent); Mandarin Chinese (Native)
 
 ---
 

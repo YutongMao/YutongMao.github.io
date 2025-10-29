@@ -1,1 +1,23 @@
+title: "Yutong Mao"
+description: "Personal site for P8105 Homework 4"
+theme: jekyll-theme-cayman
+url: "https://YutongMao.github.io"
+baseurl: ""
+
+# These links won't show in all themes as a top nav bar automatically,
+# but they make sure metadata (and some themes surface them).
+# We're also putting explicit links below so graders can navigate.
+
+github_username: YutongMao
+
+# Custom nav (for graders / instructors)
+nav:
+  - name: "Home"
+    link: /
+  - name: "Resume"
+    link: /resume.md
+  - name: "GitHub"
+    link: https://github.com/YutongMao
+  - name: "Email"
+    link: mailto:ym3139@cumc.columbia.edu
 
